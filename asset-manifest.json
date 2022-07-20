@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/EsraaSaad-Portfoli/static/css/main.cf597c1e.css",
+    "main.js": "/EsraaSaad-Portfoli/static/js/main.14c6c626.js",
+    "static/js/787.5f319b39.chunk.js": "/EsraaSaad-Portfoli/static/js/787.5f319b39.chunk.js",
+    "static/media/aaa.jpg": "/EsraaSaad-Portfoli/static/media/aaa.b8c409652d7f5d6cfaa2.jpg",
+    "index.html": "/EsraaSaad-Portfoli/index.html",
+    "main.cf597c1e.css.map": "/EsraaSaad-Portfoli/static/css/main.cf597c1e.css.map",
+    "main.14c6c626.js.map": "/EsraaSaad-Portfoli/static/js/main.14c6c626.js.map",
+    "787.5f319b39.chunk.js.map": "/EsraaSaad-Portfoli/static/js/787.5f319b39.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf597c1e.css",
+    "static/js/main.14c6c626.js"
+  ]
+}
